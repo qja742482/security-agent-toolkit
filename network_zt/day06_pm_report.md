@@ -175,3 +175,5 @@ Error response from daemon: pull access denied for nginxx, repository does not e
 - (가) `git status` 를 쳤을 때 빨간 목록에 줄이 몇 개였는지, 그 가운데 `.env` · `.venv` 가 있었는지 적어 주세요.
   - 쓸 내용: ① 줄 수 ② .env · .venv 가 있었는지
   - 답:
+  1. 5줄 
+  2. 없음
