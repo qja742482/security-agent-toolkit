@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-02",
+  "event_count": 57,
+  "source_event_counts": {
+    "web": 28,
+    "server": 15,
+    "saas": 14
+  },
+  "finding_count": 7,
+  "records": [
+    {
+      "entity": "seoyeon",
+      "score": 25,
+      "grade": "low",
+      "reasons": [
+        "대량 다운로드"
+      ]
+    }
+  ],
+  "summaries": []
+}
