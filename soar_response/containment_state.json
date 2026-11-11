@@ -1,0 +1,30 @@
+{
+  "locked_users": [
+    "junho",
+    "dami"
+  ],
+  "blocked_ips": [],
+  "block_expiry": {},
+  "clock": 0,
+  "sessions": {
+    "dami": [
+      "S-101",
+      "S-102"
+    ],
+    "seoyeon": [
+      "S-201"
+    ],
+    "gaeun": [
+      "S-301"
+    ],
+    "jiwoo": [
+      "S-401"
+    ],
+    "junho": [
+      "S-501"
+    ],
+    "hana": [
+      "S-601"
+    ]
+  }
+}
